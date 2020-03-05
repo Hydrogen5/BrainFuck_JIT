@@ -38,6 +38,10 @@
         "xmemory0": "cpp",
         "xstddef": "cpp",
         "xtr1common": "cpp",
-        "string": "cpp"
+        "string": "cpp",
+        "stack": "cpp",
+        "deque": "cpp",
+        "fstream": "cpp",
+        "sstream": "cpp"
     }
 }
